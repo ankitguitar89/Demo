@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="92" started-at="2017-09-16T10:12:09Z" finished-at="2017-09-16T10:12:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="92" started-at="2017-09-16T10:12:09Z" finished-at="2017-09-16T10:12:09Z">
+      <class name="Programs.Factorial">
+        <test-method status="PASS" signature="recursiveFactorialTest()[pri:0, instance:Programs.Factorial@4b9e13df]" name="recursiveFactorialTest" duration-ms="33" started-at="2017-09-16T15:42:09Z" finished-at="2017-09-16T15:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- recursiveFactorialTest -->
+      </class> <!-- Programs.Factorial -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
